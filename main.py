@@ -27,7 +27,7 @@ def reset_timer():
 
 
 # ---------------------------- TIMER MECHANISM ------------------------------- #
-
+# Test comment
 def start_timer():
     global reps
     reps += 1
